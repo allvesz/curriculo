@@ -3,8 +3,13 @@
 
 @import  " {{site.theme}} " ;
 
-img{
-  border-radius: 100%;
-  max-width: 150px;
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#img_circular {
+  border-radius: 200px
+    max-width: 200px;
   border: 2px solid black;
 }
