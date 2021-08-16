@@ -90,8 +90,7 @@
           ">
 <div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
             mb2">
-          
-          
+          <p>&nbsp;</p>
 <h3 class="t-14 t-black t-bold">Analista de Suporte N1</h3>
 <h4 class="t-14 t-black t-normal">HexaIT</h4>
 <div class="display-flex">
