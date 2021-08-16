@@ -2,7 +2,6 @@
 <p></p>
 <h1>Curriculo Completo</h1>
 <ul id="menu">
-<li><a href="cv-resumido.html">Resumido</a></li>
 <li class="ativo">Completo</li>
 </ul>
 <div class="secao">
@@ -86,7 +85,6 @@
 <div class="display-flex justify-space-between full-width">
 <div class="pv-entity__role-container">
 <div class="pv-entity__role-details-container
-          <p>&nbsp;</p>
           ">
 <div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
             mb2">
