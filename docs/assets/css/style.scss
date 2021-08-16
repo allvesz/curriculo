@@ -3,4 +3,8 @@
 
 @import  " {{site.theme}} " ;
 
-<img src="assets/imagens/perfil.jpg">
+img{
+  border-radius: 100%;
+  max-width: 200px;
+  border: 2px solid black;
+}
