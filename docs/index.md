@@ -1,4 +1,3 @@
-<p><img src="assets/imagens/11.jpg" /></p>
 <h1>Augusto Alves</h1>
 <div class="secao">
 <h2>Dados Profissionais</h2>
