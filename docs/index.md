@@ -29,7 +29,13 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Definir e acompanhar a escala de trabalho;<br />Monitorar as atividades da equipe;<br />An&aacute;lise dos indicadores de performance;<br />Monitorar e reportar o status da opera&ccedil;&atilde;o; <br />Monitorar e reportar o status da qualidade dos servi&ccedil;os prestados;<br />Providenciar/Manter infraestrutura para atendimento de suporte contratado;<br />Desenvolvimento de PDI (Plano de Desenvolvimento Individual);<br />Participa&ccedil;&atilde;o com clientes em reuni&otilde;es para avalia&ccedil;&atilde;o dos n&iacute;veis dos servi&ccedil;os prestados;<br />Reporte peri&oacute;dico para ger&ecirc;ncia e clientes;<br />Elabora&ccedil;&atilde;o, dimensionamento, gest&atilde;o e acompanhamento de projetos;<br />Gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC;<br />Avalia&ccedil;&atilde;o de resultados conforme SLA's;<br />Acompanhamento de indicadores operacionais e de desempenho (KPI&rsquo;s);<br />Identifica&ccedil;&atilde;o de desenvolvimento de novas m&eacute;tricas e indicadores.</div>
+    ">Definir e acompanhar a escala de trabalho;<br />Monitorar as atividades da equipe;<br />An&aacute;lise dos indicadores de performance;<br />Monitorar e reportar o status da opera&ccedil;&atilde;o; <br />Monitorar e reportar o status da qualidade dos servi&ccedil;os prestados;<br />Providenciar/Manter infraestrutura para atendimento de suporte contratado;<br />Desenvolvimento de PDI (Plano de Desenvolvimento Individual);<br />Participa&ccedil;&atilde;o com clientes em reuni&otilde;es para avalia&ccedil;&atilde;o dos n&iacute;veis dos servi&ccedil;os prestados;<br />Reporte peri&oacute;dico para ger&ecirc;ncia e clientes;<br />Elabora&ccedil;&atilde;o, dimensionamento, gest&atilde;o e acompanhamento de projetos;<br />Gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC;<br />Avalia&ccedil;&atilde;o de resultados conforme SLA's;<br />Acompanhamento de indicadores operacionais e de desempenho (KPI&rsquo;s);</div>
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">Confec&ccedil;&atilde;o de documentos (Documenta&ccedil;&atilde;o de processos);<br />Identifica&ccedil;&atilde;o de desenvolvimento de novas m&eacute;tricas e indicadores.</div>
 </div>
 </div>
 </div>
