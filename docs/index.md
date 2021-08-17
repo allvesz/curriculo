@@ -1,4 +1,5 @@
 <h1>Augusto Alves</h1>
+<img class="foto-perfil" src="assets/imagens/perfil.JPG">
 <div class="secao">
 <h2>Dados Profissionais</h2>
 <ul class="pv-entity__position-group mt2">
