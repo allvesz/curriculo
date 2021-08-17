@@ -1,7 +1,8 @@
-<img src="assets/imagens/perfil.jpg">
+<p><img src="assets/imagens/perfil.jpg" /></p>
 <h1>Augusto Alves</h1>
 <div class="secao">
 <h2>Dados Profissionais</h2>
+<p>&nbsp;</p>
 <ul class="pv-entity__position-group mt2">
 <li class="pv-entity__position-group-role-item">
 <div id="ember435" class="ember-view">
@@ -13,9 +14,13 @@
           pv-entity__role-details-container--bottom-margin">
 <div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
             mb2">
-<h3 class="t-14 t-black t-bold">Analista NOC - HexaIT</h3>
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<h3 class="t-14 t-black t-bold">Coordenador NOC - HexaIT</h3>
 <div class="display-flex">
-<h5 class="pv-entity__date-range t-14 t-black--light t-normal">mar. de 2021 &ndash; atualmente</h5>
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">ago. de 2021 &ndash; atualmente</h5>
 </div>
 </div>
 <div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
@@ -24,7 +29,11 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Gerenciamento de lives;<br />Defini&ccedil;&atilde;o de pol&iacute;ticas de Seguran&ccedil;a;<br />Monitoramento dos ambientes (NOC 24x7);<br />Registro das solicita&ccedil;&otilde;es de servi&ccedil;o;<br />Triagem e tratamento dos chamados;<br />Suporte &agrave;s d&uacute;vidas dos colaboradores;<br />Suporte para resolu&ccedil;&atilde;o de incidentes;<br />An&aacute;lise e pesquisa dos problemas;<br />An&aacute;lise peri&oacute;dica dos servi&ccedil;os de infraestrutura de TI;<br />Sustenta&ccedil;&atilde;o infraestrutura de TI;<br />Confec&ccedil;&atilde;o de documentos (Documenta&ccedil;&atilde;o de processos);<br />Monitoramento proativo (Zabbix, PRTG e Grafana);<br />Analise e troubleshooting em roteadores alocados no cliente (Unifi);<br />Atendimento ao cliente (telef&ocirc;nico e via e-mail);<br />Gerar relat&oacute;rios de disponibilidade (VPABX);<br />Monitoramento de Infraestrutura;<br />Monitoramento de Link.</div>
+    ">Definir e acompanhar a escala de trabalho;<br />Monitorar as atividades da equipe;<br />An&aacute;lise dos indicadores de performance;<br />Monitorar e reportar o status da opera&ccedil;&atilde;o; <br />Monitorar e reportar o status da qualidade dos servi&ccedil;os prestados;<br />Providenciar/Manter infraestrutura para atendimento de suporte contratado;<br />Desenvolvimento de PDI (Plano de Desenvolvimento Individual);<br />Participa&ccedil;&atilde;o com clientes em reuni&otilde;es para avalia&ccedil;&atilde;o dos n&iacute;veis dos servi&ccedil;os prestados;<br />Reporte peri&oacute;dico para ger&ecirc;ncia e clientes;<br />Elabora&ccedil;&atilde;o, dimensionamento, gest&atilde;o e acompanhamento de projetos;<br />Gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC;<br />Avalia&ccedil;&atilde;o de resultados conforme SLA's;<br />Acompanhamento de indicadores operacionais e de desempenho (KPI&rsquo;s);<br />Identifica&ccedil;&atilde;o de desenvolvimento de novas m&eacute;tricas e indicadores.</div>
+</div>
+</div>
+</div>
+<div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
 <div class="inline-show-more-text
     
     
@@ -38,6 +47,46 @@
 </div>
 </div>
 </li>
+<li class="pv-entity__position-group-role-item">
+<div id="ember438" class="ember-view">
+<div class="pv-entity__role-details">
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          pv-entity__role-details-container--timeline
+          pv-entity__role-details-container--bottom-margin">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<h3 class="t-14 t-black t-bold">Analista NOC - HexaIT</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">mar. de 2021 &ndash; ago. de 2021</h5>
+</div>
+</div>
+<div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">Gerenciamento de lives;<br />Defini&ccedil;&atilde;o de pol&iacute;ticas de Seguran&ccedil;a;<br />Monitoramento dos ambientes (NOC 24x7);<br />Registro das solicita&ccedil;&otilde;es de servi&ccedil;o;<br />Triagem e tratamento dos chamados;<br />Suporte &agrave;s d&uacute;vidas dos colaboradores;<br />Suporte para resolu&ccedil;&atilde;o de incidentes;<br />An&aacute;lise e pesquisa dos problemas;<br />An&aacute;lise peri&oacute;dica dos servi&ccedil;os de infraestrutura de TI;<br />Sustenta&ccedil;&atilde;o infraestrutura de TI;<br />Confec&ccedil;&atilde;o de documentos (Documenta&ccedil;&atilde;o de processos);<br />Monitoramento proativo (Zabbix, PRTG e Grafana);<br />Analise e troubleshooting em roteadores alocados no cliente (Unifi);<br />Atendimento ao cliente (telef&ocirc;nico e via e-mail);<br />Gerar relat&oacute;rios de disponibilidade (VPABX);<br />Monitoramento de Infraestrutura;<br />Monitoramento de Link.</div>
+</div>
+</div>
+</div>
+<div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<ul>
 <li class="pv-entity__position-group-role-item">
 <div id="ember438" class="ember-view">
 <div class="pv-entity__role-details">
@@ -215,7 +264,6 @@
 </div>
 </li>
 </ul>
-</div>
 <div class="secao">
 <h2>Forma&ccedil;&atilde;o</h2>
 <h3 class="pv-entity__date-range t-14 t-black--light t-normal">Faculdade</h3>
