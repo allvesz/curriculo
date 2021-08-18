@@ -19,7 +19,7 @@
             mb2">
 <h3 class="t-14 t-black t-bold">Coordenador NOC - HexaIT</h3>
 <div class="display-flex">
-<h5 class="pv-entity__date-range t-14 t-black--light t-normal">ago. de 2021 &ndash; atualmente</h5>
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">jul. de 2021 &ndash; atualmente</h5>
 </div>
 </div>
 <div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
@@ -64,7 +64,7 @@
             mb2">
 <h3 class="t-14 t-black t-bold">Analista NOC - HexaIT</h3>
 <div class="display-flex">
-<h5 class="pv-entity__date-range t-14 t-black--light t-normal">mar. de 2021 &ndash; ago. de 2021</h5>
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">mar. de 2021 &ndash; jul. de 2021</h5>
 </div>
 </div>
 <div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
