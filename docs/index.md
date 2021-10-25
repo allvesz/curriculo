@@ -28,7 +28,7 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe,<br />an&aacute;lise dos indicadores de performance, monitorar e reportar o status da opera&ccedil;&atilde;o,<br />monitorar e reportar o status da qualidade dos servi&ccedil;os prestados,<br />providenciar/manter infraestrutura para atendimento de suporte contratado,<br />desenvolvimento de PDI (Plano de Desenvolvimento Individual), participa&ccedil;&atilde;o com<br />clientes em reuni&otilde;es para avalia&ccedil;&atilde;o dos n&iacute;veis dos servi&ccedil;os prestados, reporte<br />peri&oacute;dico para ger&ecirc;ncia e clientes, elabora&ccedil;&atilde;o, dimensionamento, gest&atilde;o e<br />acompanhamento de projetos, gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC, avalia&ccedil;&atilde;o de<br />resultados conforme SLA's, acompanhamento de indicadores operacionais e de<br />desempenho (KPI&rsquo;s), confec&ccedil;&atilde;o de documentos e identifica&ccedil;&atilde;o de desenvolvimento<br />de novas m&eacute;tricas e indicadores</div>
+    ">Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe, an&aacute;lise dos indicadores de performance, monitorar e reportar o status da opera&ccedil;&atilde;o, monitorar e reportar o status da qualidade dos servi&ccedil;os prestados, providenciar/manter infraestrutura para atendimento de suporte contratado, desenvolvimento de PDI (Plano de Desenvolvimento Individual), participa&ccedil;&atilde;o com clientes em reuni&otilde;es para avalia&ccedil;&atilde;o dos n&iacute;veis dos servi&ccedil;os prestados, reporte<br />peri&oacute;dico para ger&ecirc;ncia e clientes, elabora&ccedil;&atilde;o, dimensionamento, gest&atilde;o e acompanhamento de projetos, gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC, avalia&ccedil;&atilde;o de resultados conforme SLA's, acompanhamento de indicadores operacionais e de desempenho (KPI&rsquo;s), confec&ccedil;&atilde;o de documentos e identifica&ccedil;&atilde;o de desenvolvimento de novas m&eacute;tricas e indicadores.</div>
 </div>
 </div>
 </div>
@@ -67,7 +67,7 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Gerenciamento de lives, defini&ccedil;&atilde;o de pol&iacute;ticas de Seguran&ccedil;a; monitoramento dos<br />ambientes (NOC 24x7); registro das solicita&ccedil;&otilde;es de servi&ccedil;o; triagem e tratamento dos<br />chamados; suporte &agrave;s d&uacute;vidas dos colaboradores; suporte para resolu&ccedil;&atilde;o de<br />incidentes; an&aacute;lise e pesquisa dos problemas; an&aacute;lise peri&oacute;dica dos servi&ccedil;os de<br />infraestrutura de TI; sustenta&ccedil;&atilde;o infraestrutura de TI; confec&ccedil;&atilde;o de documentos,<br />monitoramento proativo (Zabbix, PRTG e Grafana), analise e troubleshooting em<br />Access Points alocados no cliente (Unifi), atendimento ao cliente (telef&ocirc;nico e via email), gerar relat&oacute;rios de disponibilidade (VPABX), monitoramento de infraestrutura e<br />monitoramento de link.</div>
+    ">Gerenciamento de lives, defini&ccedil;&atilde;o de pol&iacute;ticas de Seguran&ccedil;a; monitoramento dos ambientes (NOC 24x7); registro das solicita&ccedil;&otilde;es de servi&ccedil;o; triagem e tratamento dos chamados; suporte &agrave;s d&uacute;vidas dos colaboradores; suporte para resolu&ccedil;&atilde;o de incidentes; an&aacute;lise e pesquisa dos problemas; an&aacute;lise peri&oacute;dica dos servi&ccedil;os de infraestrutura de TI; sustenta&ccedil;&atilde;o infraestrutura de TI; confec&ccedil;&atilde;o de documentos, monitoramento proativo (Zabbix, PRTG e Grafana), analise e troubleshooting em Access Points alocados no cliente (Unifi), atendimento ao cliente (telef&ocirc;nico e via email), gerar relat&oacute;rios de disponibilidade (VPABX), monitoramento de infraestrutura e<br />monitoramento de link.</div>
 </div>
 </div>
 </div>
@@ -107,7 +107,7 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Abertura de chamados n&iacute;vel 1, 2 e 3, acompanhamento de demandas<br />internas/externas, atendimento ao cliente e centraliza&ccedil;&atilde;o de projetos.</div>
+    ">Abertura de chamados n&iacute;vel 1, 2 e 3, acompanhamento de demandas internas/externas, atendimento ao cliente e centraliza&ccedil;&atilde;o de projetos.</div>
 <div class="inline-show-more-text
     inline-show-more-text--is-collapsed
     
@@ -141,7 +141,7 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Abertura de chamados n&iacute;vel 1, 2, acompanhamento de demandas internas/externas,<br />atendimento ao cliente e auxilio em projetos.</div>
+    ">Abertura de chamados n&iacute;vel 1, 2, acompanhamento de demandas internas/externas, atendimento ao cliente e auxilio em projetos.</div>
 <div class="inline-show-more-text
     inline-show-more-text--is-collapsed
     
@@ -184,7 +184,7 @@
     
     
     pv-entity__description t-14 t-black t-normal mb4
-    ">Campanha de conscientiza&ccedil;&atilde;o de Seguran&ccedil;a da Informa&ccedil;&atilde;o, gerenciamento e<br />execu&ccedil;&atilde;o de chamados e RDMs, publica&ccedil;&otilde;es internas e externas no load balancer,<br />gerenciamento de backup e restore, gerenciamento de endere&ccedil;os IP no IPAM e<br />Firewall (Palo Alto), gerenciamento de licen&ccedil;as de software, gerenciamento de<br />contas e grupos no AD, gerenciamento de regras de proxy e firewall.</div>
+    ">Campanha de conscientiza&ccedil;&atilde;o interna de Seguran&ccedil;a da Informa&ccedil;&atilde;o, atendimento a clientes, execu&ccedil;&atilde;o e apresenta&ccedil;&atilde;o de pentests internos e externos, trabalho em conjunto para elabora&ccedil;&atilde;o de matriz SOD, auxilio em demandas e projetos, cria&ccedil;&atilde;o de desafios para CTF (Capture The Flag) interno, valida&ccedil;&atilde;o de desafios do CTF e writeup de desafios do CTF.</div>
 <div class="inline-show-more-text
     
     
@@ -229,16 +229,10 @@
     
     
     pv-entity__description t-14 t-black t-normal mb4
-    ">Campanha de conscientiza&ccedil;&atilde;o de Seguran&ccedil;a da Informa&ccedil;&atilde;o;</div>
+    ">Campanha de conscientiza&ccedil;&atilde;o de Seguran&ccedil;a da Informa&ccedil;&atilde;o, gerenciamento e execu&ccedil;&atilde;o de chamados e RDMs, publica&ccedil;&otilde;es internas e externas no load balancer, gerenciamento de backup e restore, gerenciamento de endere&ccedil;os IP no IPAM e Firewall (Palo Alto), gerenciamento de licen&ccedil;as de software, gerenciamento de contas e grupos no AD, gerenciamento de regras de proxy e firewall.</div>
 </div>
 </div>
 <div id="ember459" class="pv-entity__extra-details t-14 t-black--light ember-view">
-<div class="inline-show-more-text
-    
-    
-    
-    pv-entity__description t-14 t-black t-normal
-    ">Gerenciamento e execu&ccedil;&atilde;o de chamados/RDM;<br />Publica&ccedil;&otilde;es internas e externas;<br />Gerenciamento de backup e restore;<br />Gerenciamento de endere&ccedil;os IP no IPAM e Firewall (Palo Alto);<br />Gerenciamento de licen&ccedil;as de software;<br />Gerenciamento de contas e grupos no AD;<br />Gerenciamento de regras de proxy e firewall.</div>
 <div class="inline-show-more-text
     
     
