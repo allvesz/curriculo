@@ -67,7 +67,7 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Gerenciamento de lives, defini&ccedil;&atilde;o de pol&iacute;ticas de Seguran&ccedil;a; monitoramento dos ambientes (NOC 24x7); registro das solicita&ccedil;&otilde;es de servi&ccedil;o; triagem e tratamento dos chamados; suporte &agrave;s d&uacute;vidas dos colaboradores; suporte para resolu&ccedil;&atilde;o de incidentes; an&aacute;lise e pesquisa dos problemas; an&aacute;lise peri&oacute;dica dos servi&ccedil;os de infraestrutura de TI; sustenta&ccedil;&atilde;o infraestrutura de TI; confec&ccedil;&atilde;o de documentos, monitoramento proativo (Zabbix, PRTG e Grafana), analise e troubleshooting em Access Points alocados no cliente (Unifi), atendimento ao cliente (telef&ocirc;nico e via email), gerar relat&oacute;rios de disponibilidade (VPABX), monitoramento de infraestrutura e<br />monitoramento de link.</div>
+    ">Gerenciamento de lives, defini&ccedil;&atilde;o de pol&iacute;ticas de Seguran&ccedil;a; monitoramento dos ambientes (NOC 24x7); registro das solicita&ccedil;&otilde;es de servi&ccedil;o; triagem e tratamento dos chamados; suporte &agrave;s d&uacute;vidas dos colaboradores; suporte para resolu&ccedil;&atilde;o de incidentes; an&aacute;lise e pesquisa dos problemas; an&aacute;lise peri&oacute;dica dos servi&ccedil;os de infraestrutura de TI; sustenta&ccedil;&atilde;o infraestrutura de TI; confec&ccedil;&atilde;o de documentos, monitoramento proativo (Zabbix, PRTG e Grafana), analise e troubleshooting em Access Points alocados no cliente (Unifi), atendimento ao cliente (telef&ocirc;nico e via email), gerar relat&oacute;rios de disponibilidade (VPABX), monitoramento de infraestrutura e monitoramento de link.</div>
 </div>
 </div>
 </div>
