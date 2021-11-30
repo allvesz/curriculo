@@ -295,25 +295,16 @@
 <p>Pentest Profissional &ndash; Desec - Cursando</p>
 <p>Engenharia Reversa - Udemy - Cursando</p>
 <p>Desenvolvimento WEB &ndash; Udemy &ndash; Pausado</p>
+<p>Arquitetura de Redes &ndash; Udemy &ndash; Pausado</p>
+<p>Redes TCP/IP &ndash; Udemy - Pausado</p>
+<p>Python &ndash; Udemy - Pausado</p>
 <p>Introduction to Splunk (Fundamentals) - Splunk - 2021</p>
 <p>Zabbix - Udemy - 2021</p>
 <p>Introdu&ccedil;&atilde;o &agrave; Seguran&ccedil;a Cibern&eacute;tica &ndash; Cisco NetAcademy &ndash; 2020</p>
 <p>Scrum Foundation Professional Certificate &ndash; Certiprof - 2020</p>
-<p>Excel Avan&ccedil;ado &ndash; Udemy - 2020</p>
-<p>Programa&ccedil;&atilde;o para leigos &ndash; Udemy - 2020</p>
-<p>Montagem e manuten&ccedil;&atilde;o - IPED - 2015</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Montagem e Manuten&ccedil;&atilde;o de Computadores</p>
-<p>Fundamentos em Cyber Security</p>
-<p>Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o</p>
-<p>Arquitetura de Redes</p>
-<p>Redes TCP/IP</p>
-<p>Pentest Profissional</p>
-<p>Fundamentos de Ethical Hacking</p>
-<p>Kali Linux for Beginners</p>
-<p>Python</p>
-<p>Zabbix</p>
-<p>Linux Essentials</p>
-<p>Windows Server</p>
+<p>Excel Avan&ccedil;ado &ndash; Udemy &ndash; 2020</p>
+<p>Windows Server &ndash; Udemy - 2020</p>
+<p>Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o &ndash; Udemy &ndash; 2020</p>
+<p>Linux Essentials &ndash; Boot - 2020</p>
+<p>Montagem e manuten&ccedil;&atilde;o de Computadores - IPED - 2015</p>
 </div>
