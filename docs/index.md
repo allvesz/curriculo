@@ -2,6 +2,38 @@
 <p><img class="foto-perfil" src="assets/imagens/perfil.JPG" /></p>
 <div class="secao">
 <h2>Dados Profissionais</h2>
+<ul>
+<li>
+<div class="pv-entity__summary-info pv-entity__summary-info--background-section
+    mb2">
+<h3 class="t-14 t-black t-bold">Analista de Seguran&ccedil;a Jr - Logical IT</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">nov. de 2021 &ndash; atualmente</h5>
+</div>
+<div id="ember450" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal mb4
+    ">Preven&ccedil;&atilde;o, detec&ccedil;&atilde;o e mitiga&ccedil;&atilde;o de incidentes de seguran&ccedil;a da informa&ccedil;&atilde;o, monitoramento de servi&ccedil;os de prote&ccedil;&atilde;o utilizados e confec&ccedil;&atilde;o de relat&oacute;rios para os clientes.</div>
+</div>
+</div>
+<div id="ember459" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">&nbsp;</div>
+<div class="inline-show-more-text
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">----------------------------------------------------------------------------------------</div>
+</div>
+</li>
+</ul>
 <ul class="pv-entity__position-group mt2">
 <li class="pv-entity__position-group-role-item">
 <div id="ember435" class="ember-view">
@@ -19,7 +51,7 @@
             mb2">
 <h3 class="t-14 t-black t-bold">Coordenador NOC - HexaIT</h3>
 <div class="display-flex">
-<h5 class="pv-entity__date-range t-14 t-black--light t-normal">jul. de 2021 &ndash; atualmente</h5>
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">jul. de 2021 &ndash; dez. de 2021</h5>
 </div>
 </div>
 <div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
@@ -259,6 +291,19 @@
 <h3 class="pv-entity__date-range t-14 t-black--light t-normal">Faculdade</h3>
 <p>Seguran&ccedil;a da Informa&ccedil;&atilde;o</p>
 <h3 class="pv-entity__date-range t-14 t-black--light t-normal">Cursos</h3>
+<p>Ingl&ecirc;s - Intermedi&aacute;rio &ndash; Cursando</p>
+<p>Pentest Profissional &ndash; Desec - Cursando</p>
+<p>Engenharia Reversa - Udemy - Cursando</p>
+<p>Desenvolvimento WEB &ndash; Udemy &ndash; Pausado</p>
+<p>Introduction to Splunk (Fundamentals) - Splunk - 2021</p>
+<p>Zabbix - Udemy - 2021</p>
+<p>Introdu&ccedil;&atilde;o &agrave; Seguran&ccedil;a Cibern&eacute;tica &ndash; Cisco NetAcademy &ndash; 2020</p>
+<p>Scrum Foundation Professional Certificate &ndash; Certiprof - 2020</p>
+<p>Excel Avan&ccedil;ado &ndash; Udemy - 2020</p>
+<p>Programa&ccedil;&atilde;o para leigos &ndash; Udemy - 2020</p>
+<p>Montagem e manuten&ccedil;&atilde;o - IPED - 2015</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>Montagem e Manuten&ccedil;&atilde;o de Computadores</p>
 <p>Fundamentos em Cyber Security</p>
 <p>Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o</p>
