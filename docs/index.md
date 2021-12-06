@@ -6,26 +6,13 @@
 <li>
 <div class="pv-entity__summary-info pv-entity__summary-info--background-section
     mb2">
-<h3 class="t-14 t-black t-bold">Analista de Seguran&ccedil;a Jr - Logical IT</h3>
+<h3 class="t-14 t-black t-bold">Analista de Seguran&ccedil;a da Informa&ccedil;&atilde;o - Clavis</h3>
 <div class="display-flex">
-<h5 class="pv-entity__date-range t-14 t-black--light t-normal">nov. de 2021 &ndash; atualmente</h5>
-</div>
-<div id="ember450" class="pv-entity__extra-details t-14 t-black--light ember-view">
-<div class="inline-show-more-text
-    
-    
-    
-    pv-entity__description t-14 t-black t-normal mb4
-    ">Preven&ccedil;&atilde;o, detec&ccedil;&atilde;o e mitiga&ccedil;&atilde;o de incidentes de seguran&ccedil;a da informa&ccedil;&atilde;o, monitoramento de servi&ccedil;os de prote&ccedil;&atilde;o utilizados e confec&ccedil;&atilde;o de relat&oacute;rios para os clientes.</div>
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">dez. de 2021 &ndash; atualmente</h5>
+<p>&nbsp;</p>
 </div>
 </div>
 <div id="ember459" class="pv-entity__extra-details t-14 t-black--light ember-view">
-<div class="inline-show-more-text
-    
-    
-    
-    pv-entity__description t-14 t-black t-normal
-    ">&nbsp;</div>
 <div class="inline-show-more-text
     
     
@@ -60,17 +47,9 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe, an&aacute;lise dos indicadores de performance, monitorar e reportar o status da opera&ccedil;&atilde;o, monitorar e reportar o status da qualidade dos servi&ccedil;os prestados, providenciar/manter infraestrutura para atendimento de suporte contratado, desenvolvimento de PDI (Plano de Desenvolvimento Individual), participa&ccedil;&atilde;o com clientes em reuni&otilde;es para avalia&ccedil;&atilde;o dos n&iacute;veis dos servi&ccedil;os prestados, reporte<br />peri&oacute;dico para ger&ecirc;ncia e clientes, elabora&ccedil;&atilde;o, dimensionamento, gest&atilde;o e acompanhamento de projetos, gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC, avalia&ccedil;&atilde;o de resultados conforme SLA's, acompanhamento de indicadores operacionais e de desempenho (KPI&rsquo;s), confec&ccedil;&atilde;o de documentos e identifica&ccedil;&atilde;o de desenvolvimento de novas m&eacute;tricas e indicadores.</div>
+    ">Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe, an&aacute;lise dos indicadores de performance, monitorar e reportar o status da opera&ccedil;&atilde;o, status da qualidade dos servi&ccedil;os prestados, providenciar/manter infraestrutura para<br />atendimento de suporte contratado, desenvolvimento de PDI (Plano de Desenvolvimento Individual), reporte peri&oacute;dico para ger&ecirc;ncia e clientes, acompanhamento de projetos, gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC, avalia&ccedil;&atilde;o de resultados conforme SLA's e confec&ccedil;&atilde;o de documentos.</div>
 </div>
 </div>
-</div>
-<div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
-<div class="inline-show-more-text
-    
-    
-    
-    pv-entity__description t-14 t-black t-normal
-    ">&nbsp;</div>
 </div>
 </div>
 </div>
@@ -103,14 +82,6 @@
 </div>
 </div>
 </div>
-<div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
-<div class="inline-show-more-text
-    
-    
-    
-    pv-entity__description t-14 t-black t-normal
-    ">&nbsp;</div>
-</div>
 </div>
 </div>
 </div>
@@ -140,12 +111,6 @@
     
     pv-entity__description t-14 t-black t-normal
     ">Abertura de chamados n&iacute;vel 1, 2 e 3, acompanhamento de demandas internas/externas, atendimento ao cliente e centraliza&ccedil;&atilde;o de projetos.</div>
-<div class="inline-show-more-text
-    inline-show-more-text--is-collapsed
-    
-    
-    pv-entity__description t-14 t-black t-normal
-    ">&nbsp;</div>
 </div>
 </div>
 </div>
