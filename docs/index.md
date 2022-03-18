@@ -9,7 +9,7 @@
 <h3 class="t-14 t-black t-bold">Analista de Seguran&ccedil;a da Informa&ccedil;&atilde;o - Clavis</h3>
 <div class="display-flex">
 <h5 class="pv-entity__date-range t-14 t-black--light t-normal">dez. de 2021 &ndash; atualmente</h5>
-<p>&nbsp;</p>
+<p>Administra&ccedil;&atilde;o de ambientes computacionais, participa&ccedil;&atilde;o nas defini&ccedil;&otilde;es de arquitetura tecnol&oacute;gica, analise de sistemas, levantamento de vulnerabilidades, mapeamento de riscos, implementa&ccedil;&atilde;o de solu&ccedil;&otilde;es para a seguran&ccedil;a de ambientes e dispositivos informatizados, preven&ccedil;&atilde;o, detec&ccedil;&atilde;o e mitiga&ccedil;&atilde;o de incidentes de seguran&ccedil;a, monitoramento de servi&ccedil;os e sites utilizados pelos clientes, hardening e corre&ccedil;&atilde;o de vulnerabilidades.</p>
 </div>
 </div>
 <div id="ember459" class="pv-entity__extra-details t-14 t-black--light ember-view">
@@ -259,17 +259,11 @@
 <p>Ingl&ecirc;s - Intermedi&aacute;rio &ndash; Cursando</p>
 <p>Pentest Profissional &ndash; Desec - Cursando</p>
 <p>Engenharia Reversa - Udemy - Cursando</p>
-<p>Desenvolvimento WEB &ndash; Udemy &ndash; Pausado</p>
-<p>Arquitetura de Redes &ndash; Udemy &ndash; Pausado</p>
-<p>Redes TCP/IP &ndash; Udemy - Pausado</p>
-<p>Python &ndash; Udemy - Pausado</p>
 <p>Introduction to Splunk (Fundamentals) - Splunk - 2021</p>
 <p>Zabbix - Udemy - 2021</p>
 <p>Introdu&ccedil;&atilde;o &agrave; Seguran&ccedil;a Cibern&eacute;tica &ndash; Cisco NetAcademy &ndash; 2020</p>
 <p>Scrum Foundation Professional Certificate &ndash; Certiprof - 2020</p>
 <p>Excel Avan&ccedil;ado &ndash; Udemy &ndash; 2020</p>
-<p>Windows Server &ndash; Udemy - 2020</p>
 <p>Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o &ndash; Udemy &ndash; 2020</p>
-<p>Linux Essentials &ndash; Boot - 2020</p>
 <p>Montagem e manuten&ccedil;&atilde;o de Computadores - IPED - 2015</p>
 </div>
