@@ -1,80 +1,289 @@
-Augusto Alves
-
-Dados Profissionais
-Analista de Segurança da Informação - Clavis
-set. de 2022 – atualmente
-
-Administração de ambientes computacionais, participação nas definições de arquitetura tecnológica, aplicação das melhores praticas em instalações de softwares, analise de sistemas, levantamento de vulnerabilidades do ambiente, mapeamento de riscos, implementação de soluções para a segurança de ambientes e dispositivos informatizados, prevenção, detecção e mitigação de incidentes de segurança, monitoramento de serviços e sites utilizados pelos clientes, hardening e correção de vulnerabilidades, padronização do ambiente com base no CIS Controls v8, avaliações de segurança em ativos de tecnologia.
-
-Técnico de Segurança da Informação - Clavis
-dez. de 2021 – set. 2022
-
-Administração de ambientes computacionais, participação nas definições de arquitetura tecnológica, analise de sistemas, levantamento de vulnerabilidades, mapeamento de riscos, implementação de soluções para a segurança de ambientes e dispositivos informatizados, prevenção, detecção e mitigação de incidentes de segurança, monitoramento de serviços e sites utilizados pelos clientes, hardening e correção de vulnerabilidades.
-
-----------------------------------------------------------------------------------------
-Coordenador NOC - HexaIT
-jul. de 2021 – dez. de 2021
-Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe, análise dos indicadores de performance, monitorar e reportar o status da operação, status da qualidade dos serviços prestados, providenciar/manter infraestrutura para
-atendimento de suporte contratado, desenvolvimento de PDI (Plano de Desenvolvimento Individual), reporte periódico para gerência e clientes, acompanhamento de projetos, gestão das rotinas de operações NOC, avaliação de resultados conforme SLA's e confecção de documentos
-Analista NOC - HexaIT
-mar. de 2021 – jul. de 2021
-Gerenciamento de lives, definição de políticas de Segurança; monitoramento dos ambientes (NOC 24x7); registro das solicitações de serviço; triagem e tratamento dos chamados; suporte às dúvidas dos colaboradores; suporte para resolução de incidentes; análise e pesquisa dos problemas; análise periódica dos serviços de infraestrutura de TI; sustentação infraestrutura de TI; confecção de documentos, monitoramento proativo (Zabbix, PRTG e Grafana), analise e troubleshooting em Access Points alocados no cliente (Unifi), atendimento ao cliente (telefônico e via email), gerar relatórios de disponibilidade (VPABX) e monitoramento de infraestrutura.
-Analista de Suporte N3 - HexaIT
-fev. de 2021 – mar. de 2021
-Abertura de chamados nível 1, 2 e 3, acompanhamento de demandas internas/externas, atendimento ao cliente e centralização de projetos.
-Analista de Suporte N1 - HexaIT
-out. de 2020 – jan. de 2021
-Abertura de chamados nível 1, 2, acompanhamento de demandas internas/externas, atendimento ao cliente e auxilio em projetos.
-
-
-----------------------------------------------------------------------------------------
-Trainee Tecnico I - Inmetrics
-jan. de 2020 – jul. de 2020
-Campanha de conscientização interna de Segurança da Informação, atendimento a clientes, execução e apresentação de pentests internos e externos, trabalho em conjunto para elaboração de matriz SOD, auxilio em demandas e projetos, criação de desafios para CTF (Capture The Flag) interno, validação de desafios do CTF e writeup de desafios do CTF.
-
-
-----------------------------------------------------------------------------------------
-Estagiário - OdontoPrev
-fev. de 2017 – fev. de 2019
-Campanha de conscientização de Segurança da Informação, gerenciamento e execução de chamados e RDMs, publicações internas e externas no load balancer, gerenciamento de backup e restore, gerenciamento de endereços IP no IPAM e Firewall (Palo Alto), gerenciamento de licenças de software, gerenciamento de contas e grupos no AD, gerenciamento de regras de proxy e firewall.
-
-
-----------------------------------------------------------------------------------------
-Formação
-Faculdade
-
-Segurança da Informação - Uninove - 2022
-
-Cursos
-
-Inglês - Intermediário – Cursando
-
-Pentest Profissional – Desec - Cursando
-
-Engenharia Reversa - Udemy - Cursando
-
-NSE1 - Fortinet - 2021
-
-NSE2 - Fortinet - 2022
-
-NSE3 - Fortinet - 2022
-
-CompTIA Security+ 501 - Clavis - 2022 
-
-EXIN Hacking - Clavis - 2022
-
-CompTIA Pentest+ - Clavis - 2022
-
-Introduction to Splunk (Fundamentals) - Splunk - 2021
-
-Zabbix - Udemy - 2021
-
-Introdução à Segurança Cibernética – Cisco NetAcademy – 2020
-
-Scrum Foundation Professional Certificate – Certiprof - 2020
-
-Excel Avançado – Udemy – 2020
-
-Algoritmos e Lógica de Programação – Udemy – 2020
-
-Montagem e manutenção de Computadores - IPED - 2015
+<h1>Augusto Alves</h1>
+<p><img class="foto-perfil" src="assets/imagens/perfil.JPG" /></p>
+<div class="secao">
+<h2>Dados Profissionais</h2>
+<ul>
+<li>
+<div class="pv-entity__summary-info pv-entity__summary-info--background-section
+    mb2">
+<h3 class="t-14 t-black t-bold">Analista de Seguran&ccedil;a da Informa&ccedil;&atilde;o - Clavis</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">set. de 2022 &ndash; atualmente</h5>
+<p>Administra&ccedil;&atilde;o de ambientes computacionais, participa&ccedil;&atilde;o nas defini&ccedil;&otilde;es de arquitetura tecnol&oacute;gica, aplica&ccedil;&atilde;o das melhores praticas em instala&ccedil;&otilde;es de softwares, analise de sistemas, levantamento de vulnerabilidades do ambiente, mapeamento de riscos, implementa&ccedil;&atilde;o de solu&ccedil;&otilde;es para a seguran&ccedil;a de ambientes e dispositivos informatizados, preven&ccedil;&atilde;o, detec&ccedil;&atilde;o e mitiga&ccedil;&atilde;o de incidentes de seguran&ccedil;a, monitoramento de servi&ccedil;os e sites utilizados pelos clientes, hardening e corre&ccedil;&atilde;o de vulnerabilidades, padroniza&ccedil;&atilde;o do ambiente com base no CIS Controls v8, avalia&ccedil;&otilde;es de seguran&ccedil;a em ativos de tecnologia.</p>
+<h3 class="t-14 t-black t-bold">T&eacute;cnico de Seguran&ccedil;a da Informa&ccedil;&atilde;o - Clavis</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">dez. de 2021 &ndash; set. 2022</h5>
+<p>Administra&ccedil;&atilde;o de ambientes computacionais, participa&ccedil;&atilde;o nas defini&ccedil;&otilde;es de arquitetura tecnol&oacute;gica, analise de sistemas, levantamento de vulnerabilidades, mapeamento de riscos, implementa&ccedil;&atilde;o de solu&ccedil;&otilde;es para a seguran&ccedil;a de ambientes e dispositivos informatizados, preven&ccedil;&atilde;o, detec&ccedil;&atilde;o e mitiga&ccedil;&atilde;o de incidentes de seguran&ccedil;a, monitoramento de servi&ccedil;os e sites utilizados pelos clientes, hardening e corre&ccedil;&atilde;o de vulnerabilidades.</p>
+</div>
+</div>
+</div>
+<div id="ember459" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">----------------------------------------------------------------------------------------</div>
+</div>
+</li>
+</ul>
+<ul class="pv-entity__position-group mt2">
+<li class="pv-entity__position-group-role-item">
+<div id="ember435" class="ember-view">
+<div class="pv-entity__role-details">
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          pv-entity__role-details-container--timeline
+          pv-entity__role-details-container--bottom-margin">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<h3 class="t-14 t-black t-bold">Coordenador NOC - HexaIT</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">jul. de 2021 &ndash; dez. de 2021</h5>
+</div>
+</div>
+<div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe, an&aacute;lise dos indicadores de performance, monitorar e reportar o status da opera&ccedil;&atilde;o, status da qualidade dos servi&ccedil;os prestados, providenciar/manter infraestrutura para<br />atendimento de suporte contratado, desenvolvimento de PDI (Plano de Desenvolvimento Individual), reporte peri&oacute;dico para ger&ecirc;ncia e clientes, acompanhamento de projetos, gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC, avalia&ccedil;&atilde;o de resultados conforme SLA's e confec&ccedil;&atilde;o de documentos
+<div class="secao">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          pv-entity__role-details-container--timeline
+          pv-entity__role-details-container--bottom-margin">&nbsp;</div>
+</div>
+</div>
+</div>
+</li>
+<li class="pv-entity__position-group-role-item">
+<div id="ember438" class="ember-view">
+<div class="pv-entity__role-details">
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          pv-entity__role-details-container--timeline
+          pv-entity__role-details-container--bottom-margin">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<h3 class="t-14 t-black t-bold">Analista NOC - HexaIT</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">mar. de 2021 &ndash; jul. de 2021</h5>
+</div>
+</div>
+<div id="ember436" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">Gerenciamento de lives, defini&ccedil;&atilde;o de pol&iacute;ticas de Seguran&ccedil;a; monitoramento dos ambientes (NOC 24x7); registro das solicita&ccedil;&otilde;es de servi&ccedil;o; triagem e tratamento dos chamados; suporte &agrave;s d&uacute;vidas dos colaboradores; suporte para resolu&ccedil;&atilde;o de incidentes; an&aacute;lise e pesquisa dos problemas; an&aacute;lise peri&oacute;dica dos servi&ccedil;os de infraestrutura de TI; sustenta&ccedil;&atilde;o infraestrutura de TI; confec&ccedil;&atilde;o de documentos, monitoramento proativo (Zabbix, PRTG e Grafana), analise e troubleshooting em Access Points alocados no cliente (Unifi), atendimento ao cliente (telef&ocirc;nico e via email), gerar relat&oacute;rios de disponibilidade (VPABX) e monitoramento de infraestrutura.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<ul>
+<li class="pv-entity__position-group-role-item">
+<div id="ember438" class="ember-view">
+<div class="pv-entity__role-details">
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          pv-entity__role-details-container--timeline
+          pv-entity__role-details-container--bottom-margin">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<h3 class="t-14 t-black t-bold">Analista de Suporte N3 - HexaIT</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">fev. de 2021 &ndash; mar. de 2021</h5>
+</div>
+</div>
+<div id="ember439" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">Abertura de chamados n&iacute;vel 1, 2 e 3, acompanhamento de demandas internas/externas, atendimento ao cliente e centraliza&ccedil;&atilde;o de projetos.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="pv-entity__position-group-role-item">
+<div id="ember441" class="ember-view">
+<div class="pv-entity__role-details">
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          ">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<h3 class="t-14 t-black t-bold">Analista de Suporte N1 - HexaIT</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">out. de 2020 &ndash; jan. de 2021</h5>
+</div>
+</div>
+<div id="ember442" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">Abertura de chamados n&iacute;vel 1, 2, acompanhamento de demandas internas/externas, atendimento ao cliente e auxilio em projetos.</div>
+<div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">&nbsp;</div>
+<div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">----------------------------------------------------------------------------------------</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="pv-entity__position-group-role-item">
+<div id="ember435" class="ember-view">
+<div class="pv-entity__role-details">
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          pv-entity__role-details-container--timeline
+          pv-entity__role-details-container--bottom-margin">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<div class="pv-entity__summary-info pv-entity__summary-info--background-section
+    mb2">
+<h3 class="t-14 t-black t-bold">Trainee Tecnico I - Inmetrics</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">jan. de 2020 &ndash; jul. de 2020</h5>
+</div>
+</div>
+<div id="ember450" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal mb4
+    ">Campanha de conscientiza&ccedil;&atilde;o interna de Seguran&ccedil;a da Informa&ccedil;&atilde;o, atendimento a clientes, execu&ccedil;&atilde;o e apresenta&ccedil;&atilde;o de pentests internos e externos, trabalho em conjunto para elabora&ccedil;&atilde;o de matriz SOD, auxilio em demandas e projetos, cria&ccedil;&atilde;o de desafios para CTF (Capture The Flag) interno, valida&ccedil;&atilde;o de desafios do CTF e writeup de desafios do CTF.</div>
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal mb4
+    ">&nbsp;</div>
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal mb4
+    ">----------------------------------------------------------------------------------------</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="pv-entity__position-group-role-item">
+<div id="ember435" class="ember-view">
+<div class="pv-entity__role-details">
+<div class="display-flex justify-space-between full-width">
+<div class="pv-entity__role-container">
+<div class="pv-entity__role-details-container
+          pv-entity__role-details-container--timeline
+          pv-entity__role-details-container--bottom-margin">
+<div class="pv-entity__summary-info-v2 pv-entity__summary-info--background-section pv-entity__summary-info-margin-top
+            mb2">
+<div class="pv-entity__summary-info pv-entity__summary-info--background-section
+    mb2">
+<div class="pv-entity__summary-info pv-entity__summary-info--background-section
+    mb2">
+<h3 class="t-14 t-black t-bold">Estagi&aacute;rio - OdontoPrev</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">fev. de 2017 &ndash; fev. de 2019</h5>
+</div>
+<div id="ember450" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal mb4
+    ">Campanha de conscientiza&ccedil;&atilde;o de Seguran&ccedil;a da Informa&ccedil;&atilde;o, gerenciamento e execu&ccedil;&atilde;o de chamados e RDMs, publica&ccedil;&otilde;es internas e externas no load balancer, gerenciamento de backup e restore, gerenciamento de endere&ccedil;os IP no IPAM e Firewall (Palo Alto), gerenciamento de licen&ccedil;as de software, gerenciamento de contas e grupos no AD, gerenciamento de regras de proxy e firewall.</div>
+</div>
+</div>
+<div id="ember459" class="pv-entity__extra-details t-14 t-black--light ember-view">
+<div class="inline-show-more-text
+    
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">&nbsp;</div>
+<div class="inline-show-more-text
+    
+    
+    pv-entity__description t-14 t-black t-normal
+    ">----------------------------------------------------------------------------------------</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div class="secao">
+<h2>Forma&ccedil;&atilde;o</h2>
+<h3 class="pv-entity__date-range t-14 t-black--light t-normal">Faculdade</h3>
+<p>Seguran&ccedil;a da Informa&ccedil;&atilde;o - Uninove - 2022</p>
+<h3 class="pv-entity__date-range t-14 t-black--light t-normal">Cursos</h3>
+<p>Ingl&ecirc;s - Intermedi&aacute;rio &ndash; Cursando</p>
+<p>Pentest Profissional &ndash; Desec - Cursando</p>
+<p>Engenharia Reversa - Udemy - Cursando</p>
+<p>NSE1 - Fortinet - 2021</p>
+<p>NSE2 - Fortinet - 2022</p>
+<p>NSE3 - Fortinet - 2022</p>
+<p>CompTIA Security+ 501 - Clavis - 2022&nbsp;</p>
+<p>EXIN Hacking - Clavis - 2022</p>
+<p>CompTIA Pentest+ - Clavis - 2022</p>
+<p>Introduction to Splunk (Fundamentals) - Splunk - 2021</p>
+<p>Zabbix - Udemy - 2021</p>
+<p>Introdu&ccedil;&atilde;o &agrave; Seguran&ccedil;a Cibern&eacute;tica &ndash; Cisco NetAcademy &ndash; 2020</p>
+<p>Scrum Foundation Professional Certificate &ndash; Certiprof - 2020</p>
+<p>Excel Avan&ccedil;ado &ndash; Udemy &ndash; 2020</p>
+<p>Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o &ndash; Udemy &ndash; 2020</p>
+<p>Montagem e manuten&ccedil;&atilde;o de Computadores - IPED - 2015</p>
+</div>
