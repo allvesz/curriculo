@@ -52,7 +52,7 @@
     
     
     pv-entity__description t-14 t-black t-normal
-    ">Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe, an&aacute;lise dos indicadores de performance, monitorar e reportar o status da opera&ccedil;&atilde;o, status da qualidade dos servi&ccedil;os prestados, providenciar/manter infraestrutura para<br />atendimento de suporte contratado, desenvolvimento de PDI (Plano de Desenvolvimento Individual), reporte peri&oacute;dico para ger&ecirc;ncia e clientes, acompanhamento de projetos, gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC, avalia&ccedil;&atilde;o de resultados conforme SLA's e confec&ccedil;&atilde;o de documentos
+    ">Definir e acompanhar a escala de trabalho, monitorar as atividades da equipe, an&aacute;lise dos indicadores de performance, monitorar e reportar o status da opera&ccedil;&atilde;o, status da qualidade dos servi&ccedil;os prestados, providenciar/manter infraestrutura para<br />atendimento de suporte contratado, desenvolvimento de PDI (Plano de Desenvolvimento Individual), reporte peri&oacute;dico para ger&ecirc;ncia e clientes, acompanhamento de projetos, gest&atilde;o das rotinas de opera&ccedil;&otilde;es NOC, avalia&ccedil;&atilde;o de resultados conforme SLA's e confec&ccedil;&atilde;o de documentos.
 <div class="secao">&nbsp;</div>
 </div>
 </div>
