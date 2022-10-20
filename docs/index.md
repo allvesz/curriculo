@@ -8,8 +8,13 @@
     mb2">
 <h3 class="t-14 t-black t-bold">Analista de Seguran&ccedil;a da Informa&ccedil;&atilde;o - Clavis</h3>
 <div class="display-flex">
-<h5 class="pv-entity__date-range t-14 t-black--light t-normal">dez. de 2021 &ndash; atualmente</h5>
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">set. de 2022 &ndash; atualmente</h5>
+<p>Administra&ccedil;&atilde;o de ambientes computacionais, participa&ccedil;&atilde;o nas defini&ccedil;&otilde;es de arquitetura tecnol&oacute;gica, aplica&ccedil;&atilde;o das melhores praticas em instala&ccedil;&otilde;es de softwares, analise de sistemas, levantamento de vulnerabilidades do ambiente, mapeamento de riscos, implementa&ccedil;&atilde;o de solu&ccedil;&otilde;es para a seguran&ccedil;a de ambientes e dispositivos informatizados, preven&ccedil;&atilde;o, detec&ccedil;&atilde;o e mitiga&ccedil;&atilde;o de incidentes de seguran&ccedil;a, monitoramento de servi&ccedil;os e sites utilizados pelos clientes, hardening e corre&ccedil;&atilde;o de vulnerabilidades, padroniza&ccedil;&atilde;o do ambiente com base no CIS Controls v8, avalia&ccedil;&otilde;es de seguran&ccedil;a em ativos de tecnologia.</p>
+<h3 class="t-14 t-black t-bold">T&eacute;cnico de Seguran&ccedil;a da Informa&ccedil;&atilde;o - Clavis</h3>
+<div class="display-flex">
+<h5 class="pv-entity__date-range t-14 t-black--light t-normal">dez. de 2021 &ndash; set. 2022</h5>
 <p>Administra&ccedil;&atilde;o de ambientes computacionais, participa&ccedil;&atilde;o nas defini&ccedil;&otilde;es de arquitetura tecnol&oacute;gica, analise de sistemas, levantamento de vulnerabilidades, mapeamento de riscos, implementa&ccedil;&atilde;o de solu&ccedil;&otilde;es para a seguran&ccedil;a de ambientes e dispositivos informatizados, preven&ccedil;&atilde;o, detec&ccedil;&atilde;o e mitiga&ccedil;&atilde;o de incidentes de seguran&ccedil;a, monitoramento de servi&ccedil;os e sites utilizados pelos clientes, hardening e corre&ccedil;&atilde;o de vulnerabilidades.</p>
+</div>
 </div>
 </div>
 <div id="ember459" class="pv-entity__extra-details t-14 t-black--light ember-view">
@@ -254,11 +259,17 @@
 <div class="secao">
 <h2>Forma&ccedil;&atilde;o</h2>
 <h3 class="pv-entity__date-range t-14 t-black--light t-normal">Faculdade</h3>
-<p>Seguran&ccedil;a da Informa&ccedil;&atilde;o</p>
+<p>Seguran&ccedil;a da Informa&ccedil;&atilde;o - Uninove - 2022</p>
 <h3 class="pv-entity__date-range t-14 t-black--light t-normal">Cursos</h3>
 <p>Ingl&ecirc;s - Intermedi&aacute;rio &ndash; Cursando</p>
 <p>Pentest Profissional &ndash; Desec - Cursando</p>
 <p>Engenharia Reversa - Udemy - Cursando</p>
+<p>NSE1 - Fortinet - 2021</p>
+<p>NSE2 - Fortinet - 2022</p>
+<p>NSE3 - Fortinet - 2022</p>
+<p>CompTIA Security+ 501 - Clavis - 2022&nbsp;</p>
+<p>EXIN Hacking - Clavis - 2022</p>
+<p>CompTIA Pentest+ - Clavis - 2022</p>
 <p>Introduction to Splunk (Fundamentals) - Splunk - 2021</p>
 <p>Zabbix - Udemy - 2021</p>
 <p>Introdu&ccedil;&atilde;o &agrave; Seguran&ccedil;a Cibern&eacute;tica &ndash; Cisco NetAcademy &ndash; 2020</p>
